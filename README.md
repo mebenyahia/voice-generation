@@ -1,5 +1,6 @@
-Spaghetti and macaroni of scripts that allow you to clone pretty much anyone's voice given that you can create a dataset.
+Spaghetti and macaroni of scripts that allow you to clone pretty much anyone's voice given that you have a recording of their voice long enough.
 It's pretty simple, + there are markdowns. Thinking of it, I do miss spaghetti. 
+
 There is a demo of the generated voice samples on [buggy love button](https://lovebutton.onrender.com) and on my github: [the love repo](https://github.com/mebenyahia/lovebutton)
 I might make a hate button, I might make it using my own voice too, idk lol
 
